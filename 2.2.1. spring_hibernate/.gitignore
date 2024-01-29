@@ -6,3 +6,4 @@
 *.iml
 *.lst
 *.jar
+*/spring_hibernate/*
